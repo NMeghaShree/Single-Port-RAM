@@ -6,6 +6,11 @@ Post-Synthesis Functional verification
 Schematic of Single Port RAM:-
 ![image](https://github.com/user-attachments/assets/5804bc71-4a31-4655-9357-eaaed10bdec8)
 
+Synthesis of Single Port RAM on FPGA:-
+![image](https://github.com/user-attachments/assets/23711fd4-3664-41ca-9aa9-470f76f62681)
+
+
+
 
 
 
